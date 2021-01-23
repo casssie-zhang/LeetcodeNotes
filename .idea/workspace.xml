@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7061807-2204-49ac-bfff-1401e9aa9ede" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/123.BestTimeToBuyAndSellStock3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/309.BestTimeToBuyAndSellStockCooldown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicPlanning/198.Rob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicPlanning/stock_price.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock/309.BestTimeToBuyAndSellStockCooldown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/322.Coin-Change.py" beforeDir="false" afterPath="$PROJECT_DIR$/322.CoinChange.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/455. Assign_cookies.py" beforeDir="false" afterPath="$PROJECT_DIR$/455. AssignCookies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/605. place_flowers.py" beforeDir="false" afterPath="$PROJECT_DIR$/605.PlaceFlowers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicPlanning/152.Maximum Product Subarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicPlanning/152.MaximumProductSubarray.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hJaYoYJDUY4RJidxRX6FjyjrO0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/stock" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/stock" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.309.BestTimeToBuyAndSellStockCooldown">
+    <configuration name="121.BestTimeToBuyAndSellStock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stock" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stock/121.BestTimeToBuyAndSellStock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="122.BestTimeToBuyAndSellStock2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stock" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stock/122.BestTimeToBuyAndSellStock2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="123.BestTimeToBuyAndSellStock3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stock" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stock/123.BestTimeToBuyAndSellStock3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="152.MaximumProductSubarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DynamicPlanning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DynamicPlanning/152.MaximumProductSubarray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="309.BestTimeToBuyAndSellStockCooldown" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stock" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stock/309.BestTimeToBuyAndSellStockCooldown.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.309.BestTimeToBuyAndSellStockCooldown" />
+        <item itemvalue="Python.123.BestTimeToBuyAndSellStock3" />
+        <item itemvalue="Python.122.BestTimeToBuyAndSellStock2" />
+        <item itemvalue="Python.121.BestTimeToBuyAndSellStock" />
+        <item itemvalue="Python.152.MaximumProductSubarray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7061807-2204-49ac-bfff-1401e9aa9ede" name="Default Changelist" comment="" />
+      <created>1599731698518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599731698518</updated>
+    </task>
+    <task id="LOCAL-00001" summary="readme">
+      <created>1609575171100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609575171100</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1/5 upadte">
+      <created>1609926572859</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609926572859</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1/23 upadte">
+      <created>1611383509116</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611383509116</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="readme" />
+    <MESSAGE value="1/5 upadte" />
+    <MESSAGE value="1/23 upadte" />
+    <option name="LAST_COMMIT_MESSAGE" value="1/23 upadte" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="966" y="156" key="#xdebugger.evaluate" timestamp="1611215961151">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="966" y="156" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1611215961151" />
+    <state x="291" y="42" key="CommitChangelistDialog2" timestamp="1611383508915">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="291" y="42" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1611383508915" />
+    <state x="291" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1609926572625" />
+    <state width="965" height="223" key="GridCell.Tab.0.bottom" timestamp="1611387605706">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="965" height="223" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1611387605706" />
+    <state width="1419" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1609938481348" />
+    <state width="965" height="223" key="GridCell.Tab.0.center" timestamp="1611387605703">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="965" height="223" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1611387605703" />
+    <state width="1419" height="286" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1609938481347" />
+    <state width="965" height="223" key="GridCell.Tab.0.left" timestamp="1611387605701">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="965" height="223" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1611387605701" />
+    <state width="1419" height="286" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1609938481347" />
+    <state width="965" height="223" key="GridCell.Tab.0.right" timestamp="1611387605704">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="965" height="223" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1611387605704" />
+    <state width="1419" height="286" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1609938481347" />
+    <state width="709" height="304" key="GridCell.Tab.1.bottom" timestamp="1611386897138">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="709" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1611386897138" />
+    <state width="1419" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1609938481349" />
+    <state width="709" height="304" key="GridCell.Tab.1.center" timestamp="1611386897138">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="709" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1611386897138" />
+    <state width="1419" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1609938481348" />
+    <state width="709" height="304" key="GridCell.Tab.1.left" timestamp="1611386897137">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="709" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1611386897137" />
+    <state width="1419" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1609938481348" />
+    <state width="709" height="304" key="GridCell.Tab.1.right" timestamp="1611386897138">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="709" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1611386897138" />
+    <state width="1419" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1609938481349" />
+    <state x="287" y="201" key="Vcs.Push.Dialog.v2" timestamp="1609936680209">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="287" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1609936680209" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/322.CoinChange.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/322.CoinChange.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/quicksort.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/quicksort.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/quicksort.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/quicksort.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1091.BFS_shortest_path.py</url>
+          <line>131</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/stock/309.BestTimeToBuyAndSellStockCooldown.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
