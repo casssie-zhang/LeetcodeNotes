@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7061807-2204-49ac-bfff-1401e9aa9ede" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/21.MergeTwoSortedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.LongestSubstringWithoutRepeat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/206.ReverseLinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/83.RemoveDuplicatesFromSortedList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DynamicPlanning/300.LongestIncreasingSubsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicPlanning/300.LongestIncreasingSubsequence.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,44 +201,52 @@
       <option name="project" value="LOCAL" />
       <updated>1611504213830</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1/24 upadte">
+      <created>1611567553166</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611567553166</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="readme" />
     <MESSAGE value="1/5 upadte" />
     <MESSAGE value="1/23 upadte" />
-    <option name="LAST_COMMIT_MESSAGE" value="1/23 upadte" />
+    <MESSAGE value="1/24 upadte" />
+    <option name="LAST_COMMIT_MESSAGE" value="1/24 upadte" />
   </component>
   <component name="WindowStateProjectService">
     <state x="966" y="156" key="#xdebugger.evaluate" timestamp="1611215961151">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="966" y="156" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1611215961151" />
-    <state x="291" y="42" key="CommitChangelistDialog2" timestamp="1611504213700">
+    <state x="291" y="42" key="CommitChangelistDialog2" timestamp="1611567553021">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="291" y="42" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1611504213700" />
+    <state x="291" y="42" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1611567553021" />
     <state x="291" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1609926572625" />
-    <state width="965" height="223" key="GridCell.Tab.0.bottom" timestamp="1611387605706">
+    <state width="964" height="223" key="GridCell.Tab.0.bottom" timestamp="1611567502948">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="965" height="223" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1611387605706" />
+    <state width="964" height="223" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1611567502948" />
     <state width="1419" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1609938481348" />
-    <state width="965" height="223" key="GridCell.Tab.0.center" timestamp="1611387605703">
+    <state width="964" height="223" key="GridCell.Tab.0.center" timestamp="1611567502945">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="965" height="223" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1611387605703" />
+    <state width="964" height="223" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1611567502945" />
     <state width="1419" height="286" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1609938481347" />
-    <state width="965" height="223" key="GridCell.Tab.0.left" timestamp="1611387605701">
+    <state width="964" height="223" key="GridCell.Tab.0.left" timestamp="1611567502944">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="965" height="223" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1611387605701" />
+    <state width="964" height="223" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1611567502944" />
     <state width="1419" height="286" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1609938481347" />
-    <state width="965" height="223" key="GridCell.Tab.0.right" timestamp="1611387605704">
+    <state width="964" height="223" key="GridCell.Tab.0.right" timestamp="1611567502947">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="965" height="223" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1611387605704" />
+    <state width="964" height="223" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1611567502947" />
     <state width="1419" height="286" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1609938481347" />
     <state width="709" height="304" key="GridCell.Tab.1.bottom" timestamp="1611386897138">
       <screen x="0" y="0" width="1440" height="900" />
@@ -261,10 +268,10 @@
     </state>
     <state width="709" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1611386897138" />
     <state width="1419" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1609938481349" />
-    <state x="287" y="183" key="Vcs.Push.Dialog.v2" timestamp="1611387740850">
+    <state x="287" y="183" key="Vcs.Push.Dialog.v2" timestamp="1611567555118">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="287" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1611387740850" />
+    <state x="287" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1611567555118" />
     <state x="287" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1609936680209" />
   </component>
   <component name="XDebuggerManager">
