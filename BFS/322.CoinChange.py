@@ -12,6 +12,38 @@ import functools
 class Solution(object):
     # dp:F(s) = min(F(s-c)) + 1
     # 自下而上
+
+    # 10/4/2021
+    def coinChange(self, coins, amount) -> int:
+        # BFS, it is to give shortest path
+        if amount == 0:
+            return 0
+
+        queue = [(0, 0)]  # start from amount 0
+        visited = set()
+
+        for node, step in queue:
+            for coin in coins:
+                if node + coin in visited:
+                    continue
+                if node + coin == amount:
+                    return step + 1
+                elif node + coin < amount:
+                    queue.append([node + coin, step + 1])
+                    visited.add(node + coin)
+        return -1
+
+        # dp solution
+        # rs = [amount + 1] * (amount + 1)
+        # rs[0] = 0
+        # for i in range(1, amount + 1):
+        #     for c in coins:
+        #         if i >= c:
+        #             rs[i] = min(rs[i], rs[i - c] + 1)
+        #
+        # if rs[amount] == amount + 1:
+        #     return -1
+        # return rs[amount]
     def coinChange_bottomup(self, coins, amount):
         """
         :type coins: List[int]
